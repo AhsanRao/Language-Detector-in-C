@@ -132,7 +132,7 @@ In the sample run above, the user chose option 4 to display the frequency counts
 
 1. Clone the repository to your local machine using the command 
 
-    git clone <repository URL>.
+    git clone https://github.com/AhsanRao/Language-Detector-in-C
 
 2. Compile the program using a C compiler such as GCC.
 3. Ensure that the input files (English Macbeth-English.txt, French Macbeth-French.txt, German Macbeth-German.txt, Finnish Macbeth-Finnish.txt, Portugese Prosas-Portugese.txt, Spanish shakespeare-Spanish.txt, Hungarian Álomvilág-Hungarian.txt, and Italian DivineComedy-Italian.txt) are in the same directory as the executable file.
