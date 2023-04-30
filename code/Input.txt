@@ -1,0 +1,8 @@
+English Macbeth-English.txt
+French Macbeth-French.txt
+German Macbeth-German.txt
+Finnish Macbeth-Finnish.txt
+Portugese Prosas-Portugese.txt
+Spanish shakespeare-Spanish.txt
+Hungarian Álomvilág-Hungarian.txt
+Italian DivineComedy-Italian.txt
